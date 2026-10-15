@@ -1,1 +1,1 @@
-Publish Windows ISO Downloader 3.6.0 after both Windows builds and checks succeed.
+Publish 3.6.0 after checks succeed. Attempt 2: use an owned process handle in Windows CLI regression tests.
