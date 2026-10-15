@@ -1,0 +1,4 @@
+MSBuild version 17.11.48+02bf66295 for .NET
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  CatalogTests -> /workspace/scratch/79a7a83a431d/current/source/Tests/bin/Release/net8.0/CatalogTests.dll

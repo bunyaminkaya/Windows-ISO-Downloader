@@ -1,0 +1,680 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="Text_0210456b4705" xml:space="preserve">
+    <value>Microsoft sürümü alınamadı</value>
+  </data>
+  <data name="Text_039b3f90960c" xml:space="preserve">
+    <value>Windows rehberleri ve ücretsiz araçlar</value>
+  </data>
+  <data name="Text_04cf48bf6082" xml:space="preserve">
+    <value>Gömülü Fido bütünlük referansı eksik.</value>
+  </data>
+  <data name="Text_0613080b8329" xml:space="preserve">
+    <value>SHA-256 değerleri eşleşiyor.</value>
+  </data>
+  <data name="Text_064b9a994007" xml:space="preserve">
+    <value>Office 2019 kurumsal lisans sürümü ODT aracılığıyla indirilir. Kurulum ve etkinleştirme için geçerli lisans gerekir; destek sona erdi.</value>
+  </data>
+  <data name="Text_0f7eecd29cde" xml:space="preserve">
+    <value>Devam aralığı reddedildi; baştan yeniden deneniyor.</value>
+  </data>
+  <data name="Text_0fccf3569e46" xml:space="preserve">
+    <value>İndirme yönlendirme sınırı aşıldı.</value>
+  </data>
+  <data name="Text_107ac8a4fd6d" xml:space="preserve">
+    <value>Microsoft Office Deployment Tool indirme adresi bulunamadı.</value>
+  </data>
+  <data name="Text_1311fc9489a3" xml:space="preserve">
+    <value>Beklenen SHA-256 (isteğe bağlı)</value>
+  </data>
+  <data name="Text_1335b4801d43" xml:space="preserve">
+    <value>Edge Stable MSI, Microsoft'un güncel kurumsal yayın verisinden seçilir.</value>
+  </data>
+  <data name="Text_13e0aceef568" xml:space="preserve">
+    <value>Microsoft CDN üzerinden Office 2016 perakende IMG görüntüsü indirilir. Seçilen sürüm için geçerli lisans gerekir; destek sona erdi.</value>
+  </data>
+  <data name="Text_15b25e830f69" xml:space="preserve">
+    <value>Sanal makine için çok parçalı VHD değerlendirme paketi. Tüm parçalar aynı klasöre indirilir; ISO değildir. Arşiv otomatik çalıştırılmaz.</value>
+  </data>
+  <data name="Text_15b3b491cd03" xml:space="preserve">
+    <value>Dosya indiriliyor...</value>
+  </data>
+  <data name="Text_1808b9297e37" xml:space="preserve">
+    <value>Bu LTSC sürümü ve mimarisi Microsoft tarafından sunulmuyor.</value>
+  </data>
+  <data name="Text_1836a03f7a4a" xml:space="preserve">
+    <value>↗  Siteyi ziyaret et</value>
+  </data>
+  <data name="Text_19b2dd70dce6" xml:space="preserve">
+    <value>Fido.ps1 değiştirilmiş. Özgün uygulama paketinin tamamını yeniden çıkarın.</value>
+  </data>
+  <data name="Text_1a24cc9dedd3" xml:space="preserve">
+    <value>Güncel sürümü kullanıyorsunuz.</value>
+  </data>
+  <data name="Text_1a85300df2ca" xml:space="preserve">
+    <value>Office kanalı</value>
+  </data>
+  <data name="Text_1cd89461cec7" xml:space="preserve">
+    <value>Disk görüntüsü (*.img)|*.img</value>
+  </data>
+  <data name="Text_1d7ecdebf191" xml:space="preserve">
+    <value>Server 2025 Evaluation (Build </value>
+  </data>
+  <data name="Text_1dd9f2981ef7" xml:space="preserve">
+    <value>İndirilen veri bildirilen boyutu aştı.</value>
+  </data>
+  <data name="Text_22edbe1fbf15" xml:space="preserve">
+    <value>İndirme tamamlanamadı.</value>
+  </data>
+  <data name="Text_28a3860ee475" xml:space="preserve">
+    <value> • Yeniden deneme </value>
+  </data>
+  <data name="Text_2a6f7e3ba15d" xml:space="preserve">
+    <value>Dosyayı kaydet</value>
+  </data>
+  <data name="Text_2b8a28da3e98" xml:space="preserve">
+    <value>ISO bağlandı.</value>
+  </data>
+  <data name="Text_2c74511abb68" xml:space="preserve">
+    <value>Microsoft dağıtım aracı hata koduyla kapandı: </value>
+  </data>
+  <data name="Text_2d83ea2acfb0" xml:space="preserve">
+    <value>Stable (sürüm alınıyor...)</value>
+  </data>
+  <data name="Text_2d8a366eb0c0" xml:space="preserve">
+    <value>Ürün, sürüm, mimari ve dili seçerek indirin.</value>
+  </data>
+  <data name="Text_2f46ad6dde36" xml:space="preserve">
+    <value>Microsoft seçilen eski sürümü doğrulanabilir dosya adıyla sunmadı; farklı sürüm indirilmedi.</value>
+  </data>
+  <data name="Text_2fc122b8eb2d" xml:space="preserve">
+    <value>Visual Studio Code kullanıcı kurulum dosyası resmî güncelleme sunucusundan indirilir.</value>
+  </data>
+  <data name="Text_32487620277f" xml:space="preserve">
+    <value>Ağ isteği zaman aşımına uğradı; tekrar deneyin.</value>
+  </data>
+  <data name="Text_36f4f3933670" xml:space="preserve">
+    <value>Çok dilli MSI</value>
+  </data>
+  <data name="Text_37a5701905d4" xml:space="preserve">
+    <value>Office dağıtım aracı, yapılandırma ve kurulum dosyaları indirilir.</value>
+  </data>
+  <data name="Text_3c52000302e4" xml:space="preserve">
+    <value>Office dosyaları ayrı bir paket klasörüne indirilir. configuration.xml, setup.exe ve Office-Kur.cmd kurulum için saklanır.</value>
+  </data>
+  <data name="Text_3c6577b3d64d" xml:space="preserve">
+    <value> mevcut — imza ve hash kontrolü bekliyor.</value>
+  </data>
+  <data name="Text_3de184e0aee9" xml:space="preserve">
+    <value>Güncelleme bilgisi alınamadı: </value>
+  </data>
+  <data name="Text_3f312af12605" xml:space="preserve">
+    <value>SHA-256 değerleri EŞLEŞMİYOR.</value>
+  </data>
+  <data name="Text_3ff9272cc9e5" xml:space="preserve">
+    <value>Seçenekleri uygula</value>
+  </data>
+  <data name="Text_40e6c9f09501" xml:space="preserve">
+    <value>Office dosyaları tamamlanamadı; dağıtım aracı kaydedildi.</value>
+  </data>
+  <data name="Text_4a4e022d5374" xml:space="preserve">
+    <value>İndirme tamamlanamadı; kısmi dosya devam için saklandı.</value>
+  </data>
+  <data name="Text_4be503939e49" xml:space="preserve">
+    <value>Kurulum aracı seçer</value>
+  </data>
+  <data name="Text_4c88961929c3" xml:space="preserve">
+    <value>Dil dosyası</value>
+  </data>
+  <data name="Text_4ea81d47189c" xml:space="preserve">
+    <value>Seçilen mimari için Microsoft Edge Stable MSI bulunamadı.</value>
+  </data>
+  <data name="Text_4efca0d10c5f" xml:space="preserve">
+    <value>Hakkında</value>
+  </data>
+  <data name="Text_4efe679cdde8" xml:space="preserve">
+    <value>SHA-256 yayıncı bilgisiyle eşleşmiyor.</value>
+  </data>
+  <data name="Text_52438fa9dd5b" xml:space="preserve">
+    <value>Visio ve Project için ayrıca uygun lisans gerekir. Kurulum indirmeden sonra sizin seçiminizle başlatılır.</value>
+  </data>
+  <data name="Text_538c473b5f10" xml:space="preserve">
+    <value>İndirme tamamlandı: </value>
+  </data>
+  <data name="Text_581ccff7f438" xml:space="preserve">
+    <value>İndirme tamamlandı.</value>
+  </data>
+  <data name="Text_594e3032965c" xml:space="preserve">
+    <value>VHD parçası indiriliyor: </value>
+  </data>
+  <data name="Text_59750f262f24" xml:space="preserve">
+    <value>Office 2016 sürümü veya dili tanınmadı.</value>
+  </data>
+  <data name="Text_60acc53f13a5" xml:space="preserve">
+    <value>Koyu</value>
+  </data>
+  <data name="Text_612abf4b6ea8" xml:space="preserve">
+    <value>SHA-256: hesaplanan değer; güvenilir kaynaktaki değerle karşılaştırın.</value>
+  </data>
+  <data name="Text_620b685b667f" xml:space="preserve">
+    <value>E-posta: </value>
+  </data>
+  <data name="Text_628f63a67cbb" xml:space="preserve">
+    <value>Yeni sürümü doğrula</value>
+  </data>
+  <data name="Text_629f75d4a6aa" xml:space="preserve">
+    <value>Paket varsayılanı</value>
+  </data>
+  <data name="Text_6355bb362165" xml:space="preserve">
+    <value>Microsoft'tan güncel dosya bağlantısı alınıyor...</value>
+  </data>
+  <data name="Text_65fd4fc0f852" xml:space="preserve">
+    <value>Güncel araç paketi ZIP olarak indirilir.</value>
+  </data>
+  <data name="Text_6704bc43917d" xml:space="preserve">
+    <value>İndirme verisi bekleme süresi doldu; tekrar deneyin.</value>
+  </data>
+  <data name="Text_6725e7bbcd28" xml:space="preserve">
+    <value>Sistem</value>
+  </data>
+  <data name="Text_689dcb008144" xml:space="preserve">
+    <value>Microsoft tarafından yayımlanan güncel Windows 11 çoklu sürüm ISO dosyası indirilir.</value>
+  </data>
+  <data name="Text_68b37f824c80" xml:space="preserve">
+    <value>Yayıncı imzası doğrulanamadı. Mevcut ve yeni EXE geçerli, aynı yayıncıya ait imza taşımalıdır.</value>
+  </data>
+  <data name="Text_694e0cba819f" xml:space="preserve">
+    <value>PowerToys sürümü alınamadı: </value>
+  </data>
+  <data name="Text_6a418377458f" xml:space="preserve">
+    <value>Güncelleme paketi doğrulanıyor; kurulmayacak.</value>
+  </data>
+  <data name="Text_6a9084025c4b" xml:space="preserve">
+    <value>Klasörü aç</value>
+  </data>
+  <data name="Text_6be464afdc14" xml:space="preserve">
+    <value>Windows 10 22H2 çoklu sürüm ISO dosyası Microsoft sunucusundan indirilir.</value>
+  </data>
+  <data name="Text_6d2cd6bbfe69" xml:space="preserve">
+    <value>ISO bağlanamadı</value>
+  </data>
+  <data name="Text_6ddbf8cd2a7b" xml:space="preserve">
+    <value>Sürüm bilgisi alınıyor...</value>
+  </data>
+  <data name="Text_6e7aac65db01" xml:space="preserve">
+    <value>Türkçe</value>
+  </data>
+  <data name="Text_6ed45e24c780" xml:space="preserve">
+    <value>Seçilen diskte yeterli boş alan yok.</value>
+  </data>
+  <data name="Text_6fafcf6b261a" xml:space="preserve">
+    <value>VHD paketinin kayıt klasörünü seçin</value>
+  </data>
+  <data name="Text_72023bce815a" xml:space="preserve">
+    <value>180 günlük değerlendirme ISO'su. Microsoft'un sunduğu 8 dosya dili seçilebilir. Core veya Desktop Experience kurulumda seçilir; Türkçe bu kaynaklarda sunulmuyor.</value>
+  </data>
+  <data name="Text_724be8b2de24" xml:space="preserve">
+    <value>Güncelleme doğrulanamadı: </value>
+  </data>
+  <data name="Text_728a3f41089b" xml:space="preserve">
+    <value>İndirme durumu</value>
+  </data>
+  <data name="Text_73ac3b393fb5" xml:space="preserve">
+    <value>Kısmi veri saklandı. Devam etmek için aynı seçimleri ve kayıt konumunu kullanın.</value>
+  </data>
+  <data name="Text_73dc3851baf4" xml:space="preserve">
+    <value>Office aracı çıkarılamadı; indirilmiş EXE saklandı.</value>
+  </data>
+  <data name="Text_740cb53032c2" xml:space="preserve">
+    <value>Hakkında — Windows ISO Downloader</value>
+  </data>
+  <data name="Text_7660c90492a5" xml:space="preserve">
+    <value>Microsoft'un değerlendirme ISO dosyası indirilir.</value>
+  </data>
+  <data name="Text_767791c52c04" xml:space="preserve">
+    <value>Kalan: </value>
+  </data>
+  <data name="Text_76a113fb9d7b" xml:space="preserve">
+    <value>Bağlantı açılamadı: </value>
+  </data>
+  <data name="Text_7834e39f29bd" xml:space="preserve">
+    <value> — kurmak için Office-Kur.cmd dosyasını çalıştırın.</value>
+  </data>
+  <data name="Text_78c3e7d67e3a" xml:space="preserve">
+    <value>Devam klasörü bu pakete ait değil; başka kayıt klasörü seçin.</value>
+  </data>
+  <data name="Text_793cda129d8c" xml:space="preserve">
+    <value>Sysinternals Suite ZIP paketi Microsoft'un resmî indirme sunucusundan indirilir.</value>
+  </data>
+  <data name="Text_7bc73f632810" xml:space="preserve">
+    <value>Bu işlem internet bağlantınıza göre biraz sürebilir.</value>
+  </data>
+  <data name="Text_7c911eb31320" xml:space="preserve">
+    <value>SHA-256 kopyala</value>
+  </data>
+  <data name="Text_7d9eb7acb13e" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="Text_8027f432a7fb" xml:space="preserve">
+    <value>Arayüz dili</value>
+  </data>
+  <data name="Text_8076ee4fa43d" xml:space="preserve">
+    <value>Yeni sürümün SHA-256 ve yayıncı imzası doğrulandı.</value>
+  </data>
+  <data name="Text_80e495730238" xml:space="preserve">
+    <value>180 günlük Windows Server 2025 değerlendirme ISO'su. Microsoft bu yayında Türkçe sunmuyor.</value>
+  </data>
+  <data name="Text_843055c2a695" xml:space="preserve">
+    <value>Edge sürümü alınamadı: </value>
+  </data>
+  <data name="Text_8448a5a88cec" xml:space="preserve">
+    <value>Microsoft ISO bağlantısı alınamadı. </value>
+  </data>
+  <data name="Text_858e4ba7a29f" xml:space="preserve">
+    <value>Duraklat</value>
+  </data>
+  <data name="Text_85e83fbc5d62" xml:space="preserve">
+    <value>Ürün ve dosya seçimi</value>
+  </data>
+  <data name="Text_86ff063c34b6" xml:space="preserve">
+    <value>Güvenilmeyen indirme hedefi: </value>
+  </data>
+  <data name="Text_89528da3a485" xml:space="preserve">
+    <value>ISO bağlantısı çözümleme bileşeni eksik: Fido.ps1</value>
+  </data>
+  <data name="Text_8f3c3876c216" xml:space="preserve">
+    <value> İndir düğmesi tekrar deneyecek.</value>
+  </data>
+  <data name="Text_90297601967c" xml:space="preserve">
+    <value>Yayıncının SHA-256 bilgisi geçersiz.</value>
+  </data>
+  <data name="Text_918c4a7d9a47" xml:space="preserve">
+    <value>Microsoft'un güncel ISO ürün kimliği bulunamadı.</value>
+  </data>
+  <data name="Text_92b2c95e99f0" xml:space="preserve">
+    <value>Sürüm </value>
+  </data>
+  <data name="Text_92d3e63f37ac" xml:space="preserve">
+    <value>Yönlendirmenin hedef adresi yok.</value>
+  </data>
+  <data name="Text_97a72f1fc34a" xml:space="preserve">
+    <value>Office 2016 IMG disk görüntüsü doğrudan Microsoft CDN’den indirilir.</value>
+  </data>
+  <data name="Text_98354f359c8e" xml:space="preserve">
+    <value>Güncel sürüm alınıyor...</value>
+  </data>
+  <data name="Text_99254275a6b4" xml:space="preserve">
+    <value>Güncel kurulum dosyası indirilir.</value>
+  </data>
+  <data name="Text_9de4149fb971" xml:space="preserve">
+    <value>Dosyayı indir</value>
+  </data>
+  <data name="Text_9e2483cc592f" xml:space="preserve">
+    <value>Bu uygulama Microsoft ile bağlantılı değildir. LTSC değerlendirme dosyaları süreli kullanıma yöneliktir. Office kurulumu için geçerli lisans gerekir. ISO bağlantı çözümlemesi Pete Batard tarafından geliştirilen Fido (GPL-3.0-or-later) bileşenini kullanır. Kaynak kodu ve FIDO-LICENSE.txt paketle birlikte sunulur.</value>
+  </data>
+  <data name="Text_9f147df4c4b5" xml:space="preserve">
+    <value>Microsoft dijital imzası doğrulanamadı; dosya çalıştırılmadı.</value>
+  </data>
+  <data name="Text_a18ed47aec4a" xml:space="preserve">
+    <value>İmza bilgisi</value>
+  </data>
+  <data name="Text_a53ddca30276" xml:space="preserve">
+    <value>ZIP arşivi (*.zip)|*.zip</value>
+  </data>
+  <data name="Text_a56ef00cb485" xml:space="preserve">
+    <value>Microsoft sayfasında sürüm numarası bulunamadı.</value>
+  </data>
+  <data name="Text_a6e5cf9f35c5" xml:space="preserve">
+    <value>Office kurulum betiği eksik.</value>
+  </data>
+  <data name="Text_a7b22e40b62f" xml:space="preserve">
+    <value>İndirme eksik; yeniden denenecek.</value>
+  </data>
+  <data name="Text_a7bd59bd7841" xml:space="preserve">
+    <value>Windows 10 sürümü kontrol ediliyor...</value>
+  </data>
+  <data name="Text_a9afd2388c79" xml:space="preserve">
+    <value>Uygulamada beklenmeyen bir hata oluştu. Ayrıntılar %LOCALAPPDATA%\WID\hata.log dosyasına yazıldı.
+
+</value>
+  </data>
+  <data name="Text_a9cfda34d193" xml:space="preserve">
+    <value>ISO, Microsoft sunucusundan tarayıcı açılmadan indirilir.</value>
+  </data>
+  <data name="Text_ab275fdd73ae" xml:space="preserve">
+    <value>İngilizce x64 değerlendirme VHD/VHDX; sanal makine içindir.</value>
+  </data>
+  <data name="Text_ac9852af71ab" xml:space="preserve">
+    <value>Resmî kurulum paketi. Önyükleyiciler asıl dosyaları kurulum sırasında indirir.</value>
+  </data>
+  <data name="Text_aef9627fbabf" xml:space="preserve">
+    <value>Office sürümü alınamadı: </value>
+  </data>
+  <data name="Text_b0af9a3b0566" xml:space="preserve">
+    <value>İşlem duraklatıldı; henüz dosya verisi alınmadı.</value>
+  </data>
+  <data name="Text_b0f6330c0d90" xml:space="preserve">
+    <value>Arşiv imza inceleme sınırını aşıyor.</value>
+  </data>
+  <data name="Text_b20f17e588a2" xml:space="preserve">
+    <value>Güncellemenin SHA-256 değeri eşleşmiyor.</value>
+  </data>
+  <data name="Text_b36e4abc7de3" xml:space="preserve">
+    <value>Beklenen SHA-256 değerini yapıştırın.</value>
+  </data>
+  <data name="Text_b8966881fb0c" xml:space="preserve">
+    <value>Uygulama (*.exe)|*.exe</value>
+  </data>
+  <data name="Text_ba30bd81759f" xml:space="preserve">
+    <value>Yeni sürüm hazır</value>
+  </data>
+  <data name="Text_ba36ec507c4d" xml:space="preserve">
+    <value>Microsoft'un 90 günlük değerlendirme ISO'ları. IoT sürümü ARM64 olarak da sunulur; dil İngilizcedir.</value>
+  </data>
+  <data name="Text_bb9755f32f23" xml:space="preserve">
+    <value>Çok dilli</value>
+  </data>
+  <data name="Text_be296fc83a75" xml:space="preserve">
+    <value>Bağlantı çözümleme işlemi başlatılamadı.</value>
+  </data>
+  <data name="Text_be7e41a930f4" xml:space="preserve">
+    <value>Office dosyaları: </value>
+  </data>
+  <data name="Text_bf9e126de78c" xml:space="preserve">
+    <value>Güncel paket</value>
+  </data>
+  <data name="Text_c06398d11400" xml:space="preserve">
+    <value>Server sürümü alınamadı: </value>
+  </data>
+  <data name="Text_c2f5d78dd12f" xml:space="preserve">
+    <value>Microsoft dağıtım aracı başlatılamadı.</value>
+  </data>
+  <data name="Text_c37ccc46aee1" xml:space="preserve">
+    <value>Devam yanıtı dosya kimliği veya uzunluğuyla eşleşmiyor.</value>
+  </data>
+  <data name="Text_c5debbade126" xml:space="preserve">
+    <value>VHD hedef klasörü zaten var. Başka bir kayıt klasörü seçin: </value>
+  </data>
+  <data name="Text_c7505809432c" xml:space="preserve">
+    <value>Office aracı tamamlandı ancak Office dosyaları bulunamadı. EXE saklandı.</value>
+  </data>
+  <data name="Text_c83a971301f0" xml:space="preserve">
+    <value>Server 2025 Evaluation (sürüm alınıyor...)</value>
+  </data>
+  <data name="Text_c9d41df82dec" xml:space="preserve">
+    <value>Microsoft sürüm sorgusu zaman aşımına uğradı.</value>
+  </data>
+  <data name="Text_cae9d8e32c71" xml:space="preserve">
+    <value>x64 / x86 disk görüntüsü</value>
+  </data>
+  <data name="Text_cb8ef63904fd" xml:space="preserve">
+    <value>ISO’yu bağla</value>
+  </data>
+  <data name="Text_cc333b5e2e21" xml:space="preserve">
+    <value>Office kur</value>
+  </data>
+  <data name="Text_cd74053c5481" xml:space="preserve">
+    <value>Mimari</value>
+  </data>
+  <data name="Text_ce313ea4ba99" xml:space="preserve">
+    <value>Seçim yapıp indirmeyi başlatın.</value>
+  </data>
+  <data name="Text_d19b293941c5" xml:space="preserve">
+    <value>Dosya dilleri (birden fazla seçilebilir)</value>
+  </data>
+  <data name="Text_d33569ce0348" xml:space="preserve">
+    <value>90 günlük değerlendirme ISO'su Microsoft'tan indirilir.</value>
+  </data>
+  <data name="Text_d3ca50807393" xml:space="preserve">
+    <value>Hariç tutulacak uygulamalar</value>
+  </data>
+  <data name="Text_d3ffa28d4d42" xml:space="preserve">
+    <value>Arşivde EXE bulunamadı.</value>
+  </data>
+  <data name="Text_db40405f2f37" xml:space="preserve">
+    <value>ISO disk görüntüsü (*.iso)|*.iso</value>
+  </data>
+  <data name="Text_dbcd5e7bb7a0" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="Text_dd167905de0d" xml:space="preserve">
+    <value>Sürüm</value>
+  </data>
+  <data name="Text_dec1fe42ed26" xml:space="preserve">
+    <value> (Fido kataloğu)</value>
+  </data>
+  <data name="Text_dfa893bf446c" xml:space="preserve">
+    <value>Stable (güncel)</value>
+  </data>
+  <data name="Text_e115ea135e29" xml:space="preserve">
+    <value>Çok dilli / kurulum sırasında</value>
+  </data>
+  <data name="Text_e19876e427ee" xml:space="preserve">
+    <value>Beklenmeyen dosya biçimi.</value>
+  </data>
+  <data name="Text_e29b2717dcaf" xml:space="preserve">
+    <value>Office seçenekleri</value>
+  </data>
+  <data name="Text_e7a50435a351" xml:space="preserve">
+    <value>İstek zaman aşımına uğradı.</value>
+  </data>
+  <data name="Text_e888155d8c7d" xml:space="preserve">
+    <value>Karşılaştır</value>
+  </data>
+  <data name="Text_e89a97c91ead" xml:space="preserve">
+    <value>Microsoft PowerToys kurulum dosyası resmî GitHub yayınından indirilir.</value>
+  </data>
+  <data name="Text_ea38a28c2860" xml:space="preserve">
+    <value>Windows 11 sürümü kontrol ediliyor...</value>
+  </data>
+  <data name="Text_ec9841a5309a" xml:space="preserve">
+    <value>İndirme iptal edildi.</value>
+  </data>
+  <data name="Text_ef7cd3929976" xml:space="preserve">
+    <value>Geliştirici: Bünyamin Kaya</value>
+  </data>
+  <data name="Text_efb52e7172b7" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="Text_f0b79bd33747" xml:space="preserve">
+    <value>Office yükleme dosyaları indiriliyor...</value>
+  </data>
+  <data name="Text_f20c2c2589ea" xml:space="preserve">
+    <value>Seçilen mimari için resmî PowerToys kurulumu bulunamadı.</value>
+  </data>
+  <data name="Text_f26f3275e735" xml:space="preserve">
+    <value>Güncellemeleri kontrol et</value>
+  </data>
+  <data name="Text_f326ad874498" xml:space="preserve">
+    <value>İmza bilgileri</value>
+  </data>
+  <data name="Text_f9787ca016c4" xml:space="preserve">
+    <value>Bu ürün için resmî dosya bulunamadı.</value>
+  </data>
+  <data name="Text_fa0ed02a755b" xml:space="preserve">
+    <value>Windows 10 ARM64 ISO bu kaynaktan sunulmuyor.</value>
+  </data>
+  <data name="Text_fa100960595c" xml:space="preserve">
+    <value>Sunucu dosya yerine küçük bir yanıt döndürdü.</value>
+  </data>
+  <data name="Text_fadc4f73fa74" xml:space="preserve">
+    <value>Güncel Microsoft Edge MSI paketi indirilir.</value>
+  </data>
+  <data name="Text_fadfdd9e5130" xml:space="preserve">
+    <value>Site açılamadı</value>
+  </data>
+  <data name="Text_fb9ef894175c" xml:space="preserve">
+    <value>Ürün</value>
+  </data>
+  <data name="Text_fe517d63a730" xml:space="preserve">
+    <value>120 günlük İngilizce değerlendirme ISO'su. Eski bir işletim sistemidir.</value>
+  </data>
+  <data name="Error_bedcf718604a" xml:space="preserve">
+    <value>Desteklenmeyen Office dağıtım ürünü.</value>
+  </data>
+  <data name="Error_1616b7cca539" xml:space="preserve">
+    <value>Bu ürün için Office kanalı desteklenmiyor.</value>
+  </data>
+  <data name="Error_51435d3f8de3" xml:space="preserve">
+    <value>Office dili desteklenmiyor veya aynı dil birden fazla seçilmiş.</value>
+  </data>
+  <data name="Error_193338a20be3" xml:space="preserve">
+    <value>Hariç tutulacak uygulama tanınmadı.</value>
+  </data>
+  <data name="Error_cc5f48ac8f87" xml:space="preserve">
+    <value>Office mimarisi desteklenmiyor.</value>
+  </data>
+  <data name="Error_bed9f72719ca" xml:space="preserve">
+    <value>Ürün desteklenmiyor.</value>
+  </data>
+  <data name="Error_4d549603d106" xml:space="preserve">
+    <value>Ürün veya mimari desteklenmiyor.</value>
+  </data>
+  <data name="Error_3c8b9f25fa13" xml:space="preserve">
+    <value>.NET sürümü desteklenmiyor.</value>
+  </data>
+  <data name="Error_4e1d69341dd1" xml:space="preserve">
+    <value>Bu mimari için .NET kurulum dosyası yayımlanmamış.</value>
+  </data>
+  <data name="Error_d813f4caca79" xml:space="preserve">
+    <value>.NET kurulum adresine güvenilmiyor.</value>
+  </data>
+  <data name="Error_07a8308e3dd4" xml:space="preserve">
+    <value>.NET yayıncısının SHA-512 bilgisi geçersiz.</value>
+  </data>
+  <data name="Error_30f3d0eb2f5b" xml:space="preserve">
+    <value>Eşleşen kararlı .NET kurulum dosyası bulunamadı.</value>
+  </data>
+  <data name="Error_b9b0c0a413fb" xml:space="preserve">
+    <value>Terminal sürümü desteklenmiyor.</value>
+  </data>
+  <data name="Error_65d833230c2e" xml:space="preserve">
+    <value>Bu mimari için kararlı Windows Terminal ZIP paketi bulunamadı.</value>
+  </data>
+  <data name="Error_9c060f77f11a" xml:space="preserve">
+    <value>Terminal indirme adresine güvenilmiyor.</value>
+  </data>
+  <data name="Error_7a766708206e" xml:space="preserve">
+    <value>Sürüm desteklenmiyor.</value>
+  </data>
+  <data name="Error_19177e50e227" xml:space="preserve">
+    <value>Yayıncının SHA-512 değeri indirilen dosyayla eşleşmiyor.</value>
+  </data>
+  <data name="Error_19d23d726484" xml:space="preserve">
+    <value>Seçenek birden fazla kullanılmış: </value>
+  </data>
+  <data name="Error_0e5529944971" xml:space="preserve">
+    <value>Seçenek tanınmadı veya değeri eksik: </value>
+  </data>
+  <data name="Error_26956722ea03" xml:space="preserve">
+    <value>Desteklenen bir --product değeri belirtin; --help ile yardım alabilirsiniz.</value>
+  </data>
+  <data name="Error_13df419af5c6" xml:space="preserve">
+    <value>--ui-lang değeri tr veya en olmalıdır.</value>
+  </data>
+  <data name="Error_a3c8fd732526" xml:space="preserve">
+    <value>--list ve --url-only birlikte kullanılamaz.</value>
+  </data>
+  <data name="Error_4869b84831be" xml:space="preserve">
+    <value>Office seçenekleri için --product office veya office2019 gerekir.</value>
+  </data>
+  <data name="Error_8957b3703ab6" xml:space="preserve">
+    <value>Yayın sayfası güvenilir değil.</value>
+  </data>
+  <data name="Error_4e27a202225e" xml:space="preserve">
+    <value>Bu yayında uygulamanın mimarisine uygun paket yok.</value>
+  </data>
+  <data name="Error_f17601483005" xml:space="preserve">
+    <value>Güncelleme paketi adresi güvenilir değil.</value>
+  </data>
+  <data name="Error_3cc539f1879f" xml:space="preserve">
+    <value>Güncelleme paketi beklenen boyut sınırları dışında.</value>
+  </data>
+  <data name="Error_2acee35b4512" xml:space="preserve">
+    <value>Güncelleme hash dosyasının adresi güvenilir değil.</value>
+  </data>
+  <data name="Error_43051911cf9c" xml:space="preserve">
+    <value>Yayın paketinin hash değeri bulunamadı.</value>
+  </data>
+  <data name="Error_4f8ad51bf2b1" xml:space="preserve">
+    <value>Server kurulum dosyaları x64 mimarisindedir.</value>
+  </data>
+  <data name="Error_ef26b1d417cb" xml:space="preserve">
+    <value>Paketin bir parçası zaten var; üzerine yazmak için --force kullanın.</value>
+  </data>
+  <data name="Error_f936a3dc3103" xml:space="preserve">
+    <value>Hedef dosya zaten var; --force kullanın veya başka klasör seçin.</value>
+  </data>
+  <data name="Error_377c66bd2076" xml:space="preserve">
+    <value>Beklenen hash yayıncının verdiği değerle çelişiyor.</value>
+  </data>
+  <data name="Error_3c7685b92c84" xml:space="preserve">
+    <value>Windows mimarisi desteklenmiyor.</value>
+  </data>
+  <data name="Error_971129683dea" xml:space="preserve">
+    <value>Office 2019 yerel ARM64 mimarisini desteklemiyor.</value>
+  </data>
+  <data name="Error_f00bd03bffdb" xml:space="preserve">
+    <value>VS Code mimarisi desteklenmiyor.</value>
+  </data>
+  <data name="Error_6935a47753c5" xml:space="preserve">
+    <value>Güncelleme paketinin boyutu eşleşmiyor.</value>
+  </data>
+  <data name="Error_295c8c8b567d" xml:space="preserve">
+    <value>Güncelleme paketi beklenen boyutu aşıyor.</value>
+  </data>
+  <data name="Error_8c645415fcff" xml:space="preserve">
+    <value>Güncelleme paketi eksik indirildi.</value>
+  </data>
+  <data name="Error_b2a1025f27fb" xml:space="preserve">
+    <value>Güncelleme paketinin içeriği beklenen biçimde değil.</value>
+  </data>
+  <data name="Error_311ac428dad8" xml:space="preserve">
+    <value>Çalışan uygulamanın dosya yolu alınamadı.</value>
+  </data>
+  <data name="Error_99caeca7e0f4" xml:space="preserve">
+    <value>Güncelleme EXE sürümü yayın etiketiyle eşleşmiyor.</value>
+  </data>
+  <data name="Error_6c33c68865e7" xml:space="preserve">
+    <value>Yayında SHA-256 bilgisi yok.</value>
+  </data>
+  <data name="Error_0078def9d4cb" xml:space="preserve">
+    <value>Hash bilgi dosyası boyut sınırını aşıyor.</value>
+  </data>
+  <data name="AdditionalGeneral" xml:space="preserve">
+    <value>Resmî kurulum paketi. Önyükleyiciler asıl dosyaları kurulum sırasında indirir.</value>
+  </data>
+  <data name="AdditionalTerminal" xml:space="preserve">
+    <value>Microsoft’un resmî Windows Terminal ZIP paketi. Paket otomatik çalıştırılmaz.</value>
+  </data>
+  <data name="AdditionalSql" xml:space="preserve">
+    <value>Developer sürümleri yalnızca geliştirme ve test içindir. Evaluation süreli değerlendirmedir; indirilen dosya kurulum önyükleyicisidir.</value>
+  </data>
+  <data name="AdditionalNet" xml:space="preserve">
+    <value>Microsoft yayın verisindeki desteklenen kararlı .NET sürümleri. İndirme sonunda yayıncının SHA-512 değeri kontrol edilir.</value>
+  </data>
+  <data name="ServerCore" xml:space="preserve">
+    <value>Core / Desktop Experience kurulumda seçilir; ayrı bir Core ISO’su değildir.</value>
+  </data>
+  <data name="CliFidoError" xml:space="preserve">
+    <value>Fido sürüm kataloğu okunamadı: </value>
+  </data>
+  <data name="CliReleaseError" xml:space="preserve">
+    <value>Sürüm yok veya seçim belirsiz; --list kullanın.</value>
+  </data>
+  <data name="ServerVirtualError" xml:space="preserve">
+    <value>Sanal disk sürümü veya dili desteklenmiyor.</value>
+  </data>
+</root>

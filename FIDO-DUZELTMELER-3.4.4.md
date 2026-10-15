@@ -1,0 +1,11 @@
+# Windows ISO Downloader 3.4.4 — Fido v1.70-WID.1
+
+Yerel Fido türevi: özgün telif bilgileri ve GPL-3.0-or-later koşulları korunur. Değiştirilmiş betiğin geçersiz Authenticode imza bloğu kaldırıldı; betik yeniden imzalanmış değildir. AllSigned ortamında yönetici tarafından izin verilen güvenilir sertifikayla imzalanmalıdır. Uygulamanın mevcut süreç başlatma politikası değiştirilmedi.
+
+Düzeltmeler: Bulgarca/Çekçe/İspanyolca dil kodları, en-US/fr-CA dil önceliği, ilk uygun dili seçme; sözlük Count kontrolü; TLS1.2; platform sürümünü System.Version ile karşılaştırma; pipe try/finally; ortamdan mimari tespiti; ikon yüklemesinde hata yakalama ve Dispose; terminali gizlememe; ölü kod temizliği; ProductEditionId pozitif dizi desteği ve oturum dizisinin dinamik boyutu; UEFI ürününde bu parametrenin reddedilmesi; parametre tek başına verilince Windows11 komut modu; URL HTTPS/host/ISO yolu doğrulaması; GetUrl dalında açık çıkış; ürün/dil/mimaride tam eşleşme, edisyon ve sürümde belirsiz kısa seçimleri reddetme. Uygulama dil parametrelerini artık regex yerine düz değer olarak gönderir.
+
+Bağımsız Fido indirme akışı: HEAD başarısız olsa da devam eder; boyut varsa disk alanı kontrol edilir; BITS başarısızsa Invoke-WebRequest denenir; geçici dosya ve uzunluk kontrolü yapılır, hata durumunda geçici dosya silinir, mevcut hedef dosyanın üzerine yazılmaz. WPF uygulaması zaten kendi HTTP indirme/disk alanı/URL doğrulama akışını kullanır; Fido yalnızca GetUrl ile çağrılır.
+
+Raporun sınırları: tek ID seçilen mimari için geçerlidir, diğer mimarinin aynı çağrıda çıkmaması uygulamada hata değildir. Normal betikte Verbose/Debug şu anda gelişmiş komut ortak parametreleriyle çakışmaz. SHA256 doğrulaması için Microsoft kaynaklı beklenen hash gerekir; doğrulanmış hash kaynağı olmadan doğrulandı iddiası eklenmedi. JSON/LogFile/Resume/OutDir gibi isteğe bağlı yeni özellikler bu hata düzeltmesine eklenmedi. Microsoft protokol kimlikleri ve yayın akışı canlı uçtan uca doğrulanmadı.
+
+Doğrulama: PowerShell7.4.6 gerçek parser kontrolü ve ağsız 32 regresyon kontrolü geçti. Locale eşleşmeleri, kabul/red URL örnekleri, UEFI/geçersiz ID reddi, HEAD hata toleransı, BITS yedek akışı, üzerine yazma reddi ve geçici dosya temizliği kapsandı. Windows PowerShell5.1/WPF açılışı ve gerçek Microsoft ISO indirmesi bu Linux ortamında çalıştırılmadı.

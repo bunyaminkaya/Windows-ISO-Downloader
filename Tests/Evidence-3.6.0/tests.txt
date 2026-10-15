@@ -1,0 +1,7 @@
+ISO/dil/VHD kontrolleri: PASS
+37 indirme güvenliği kontrolü: PASS
+13 devam/yeniden deneme/hash kontrolü: PASS
+488 ek kontrol (442 çeviri + 46 mantık): PASS
+6 Python testi: PASS
+32 Fido + 4 SDK + Office launcher (mocked): PASS
+Windows native execution: NOT RUN

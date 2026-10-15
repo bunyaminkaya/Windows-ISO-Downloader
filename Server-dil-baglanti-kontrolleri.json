@@ -1,0 +1,434 @@
+[
+  {
+    "release": "2022",
+    "language": "enus",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195280&clcid=0x409&culture=en-us&country=US",
+    "final": "https://software-static.download.prss.microsoft.com/sg/download/888969d5-f34g-4e03-ac9d-1f9786c66749/SERVER_EVAL_x64FRE_en-us.iso",
+    "status": 200,
+    "bytes": "5044094976",
+    "ok": true
+  },
+  {
+    "release": "2022",
+    "language": "zhcn",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195280&clcid=0x804&culture=zh-cn&country=CN",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/988969d5-f34g-4e03-ac9d-1f9786c66756/20348.1787.230607-0640.fe_release_svc_refresh_SERVER_EVAL_x64FRE_zh-cn.iso",
+    "status": 200,
+    "bytes": "5478957056",
+    "ok": true
+  },
+  {
+    "release": "2022",
+    "language": "frfr",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195280&clcid=0x40c&culture=fr-fr&country=FR",
+    "final": "https://software-static.download.prss.microsoft.com/sg/download/888969d5-f34g-4e03-ac9d-1f9786c66749/SERVER_EVAL_x64FRE_fr-fr.iso",
+    "status": 200,
+    "bytes": "5061216256",
+    "ok": true
+  },
+  {
+    "release": "2022",
+    "language": "dede",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195280&clcid=0x407&culture=de-de&country=DE",
+    "final": "https://software-static.download.prss.microsoft.com/sg/download/888969d5-f34g-4e03-ac9d-1f9786c66749/SERVER_EVAL_x64FRE_de-de.iso",
+    "status": 200,
+    "bytes": "5091317760",
+    "ok": true
+  },
+  {
+    "release": "2022",
+    "language": "itit",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195280&clcid=0x410&culture=it-it&country=IT",
+    "final": "https://software-static.download.prss.microsoft.com/sg/download/888969d5-f34g-4e03-ac9d-1f9786c66749/SERVER_EVAL_x64FRE_it-it.iso",
+    "status": 200,
+    "bytes": "4998158336",
+    "ok": true
+  },
+  {
+    "release": "2022",
+    "language": "jajp",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195280&clcid=0x411&culture=ja-jp&country=JP",
+    "final": "https://software-static.download.prss.microsoft.com/sg/download/888969d5-f34g-4e03-ac9d-1f9786c66749/SERVER_EVAL_x64FRE_ja-jp.iso",
+    "status": 200,
+    "bytes": "5205041152",
+    "ok": true
+  },
+  {
+    "release": "2022",
+    "language": "ruru",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195280&clcid=0x419&culture=ru-ru&country=RU",
+    "final": "https://software-static.download.prss.microsoft.com/sg/download/888969d5-f34g-4e03-ac9d-1f9786c66749/SERVER_EVAL_x64FRE_ru-ru.iso",
+    "status": 200,
+    "bytes": "5008531456",
+    "ok": true
+  },
+  {
+    "release": "2022",
+    "language": "eses",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195280&clcid=0x40a&culture=es-es&country=ES",
+    "final": "https://software-static.download.prss.microsoft.com/sg/download/888969d5-f34g-4e03-ac9d-1f9786c66749/SERVER_EVAL_x64FRE_es-es.iso",
+    "status": 200,
+    "bytes": "5055336448",
+    "ok": true
+  },
+  {
+    "release": "2019",
+    "language": "enus",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195167&clcid=0x409&culture=en-us&country=US",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/988969d5-f34g-4e03-ac9d-1f9786c66749/17763.3650.221105-1748.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_en-us.iso",
+    "status": 200,
+    "bytes": "5652088832",
+    "ok": true
+  },
+  {
+    "release": "2019",
+    "language": "zhcn",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195167&clcid=0x804&culture=zh-cn&country=CN",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/988969d5-f34g-4e03-ac9d-1f9786c66749/17763.3650.221105-1748.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_zh-cn.iso",
+    "status": 200,
+    "bytes": "5900675072",
+    "ok": true
+  },
+  {
+    "release": "2019",
+    "language": "frfr",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195167&clcid=0x40c&culture=fr-fr&country=FR",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/988969d5-f34g-4e03-ac9d-1f9786c66749/17763.3650.221105-1748.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_fr-fr.iso",
+    "status": 200,
+    "bytes": "5675120640",
+    "ok": true
+  },
+  {
+    "release": "2019",
+    "language": "dede",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195167&clcid=0x407&culture=de-de&country=DE",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/988969d5-f34g-4e03-ac9d-1f9786c66749/17763.3650.221105-1748.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_de-de.iso",
+    "status": 200,
+    "bytes": "5710565376",
+    "ok": true
+  },
+  {
+    "release": "2019",
+    "language": "itit",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195167&clcid=0x410&culture=it-it&country=IT",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/988969d5-f34g-4e03-ac9d-1f9786c66749/7763.3650.221105-1748.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_it-it.iso",
+    "status": 200,
+    "bytes": "5613529088",
+    "ok": true
+  },
+  {
+    "release": "2019",
+    "language": "jajp",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195167&clcid=0x411&culture=ja-jp&country=JP",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/988969d5-f34g-4e03-ac9d-1f9786c66749/17763.3650.221105-1748.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_ja-jp.iso",
+    "status": 200,
+    "bytes": "5839204352",
+    "ok": true
+  },
+  {
+    "release": "2019",
+    "language": "ruru",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195167&clcid=0x419&culture=ru-ru&country=RU",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/988969d5-f34g-4e03-ac9d-1f9786c66749/17763.3650.221105-1748.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_ru-ru.iso",
+    "status": 200,
+    "bytes": "5637828608",
+    "ok": true
+  },
+  {
+    "release": "2019",
+    "language": "eses",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195167&clcid=0x40a&culture=es-es&country=ES",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/988969d5-f34g-4e03-ac9d-1f9786c66749/17763.3650.221105-1748.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_es-es.iso",
+    "status": 200,
+    "bytes": "5675995136",
+    "ok": true
+  },
+  {
+    "release": "2016",
+    "language": "enus",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195174&clcid=0x409&culture=en-us&country=US",
+    "final": "https://software-static.download.prss.microsoft.com/pr/download/Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh.ISO",
+    "status": 200,
+    "bytes": "6972221440",
+    "ok": true
+  },
+  {
+    "release": "2016",
+    "language": "zhcn",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195174&clcid=0x804&culture=zh-cn&country=CN",
+    "final": "https://download.microsoft.com/download/B/5/F/B5F1A996-B590-45FD-BA99-DE7E745A0882/14393.0.161119-1705.RS1_REFRESH_SERVER_EVAL_X64FRE_ZH-CN.ISO",
+    "status": 200,
+    "bytes": "7305588736",
+    "ok": true
+  },
+  {
+    "release": "2016",
+    "language": "frfr",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195174&clcid=0x40c&culture=fr-fr&country=FR",
+    "final": "https://download.microsoft.com/download/5/A/2/5A2C8AEF-EDD8-4025-801B-C7171FAF761D/14393.0.161119-1705.RS1_REFRESH_SERVER_EVAL_X64FRE_FR-FR.ISO",
+    "status": 200,
+    "bytes": "7003871232",
+    "ok": true
+  },
+  {
+    "release": "2016",
+    "language": "dede",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195174&clcid=0x407&culture=de-de&country=DE",
+    "final": "https://download.microsoft.com/download/7/E/B/7EBCA3A0-1F42-4966-B03E-713C3DEF98B7/14393.0.161119-1705.RS1_REFRESH_SERVER_EVAL_X64FRE_DE-DE.ISO",
+    "status": 200,
+    "bytes": "7032489984",
+    "ok": true
+  },
+  {
+    "release": "2016",
+    "language": "itit",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195174&clcid=0x410&culture=it-it&country=IT",
+    "final": "https://download.microsoft.com/download/0/A/4/0A42ABE9-772A-4A4B-B185-A036BA6EE093/14393.0.161119-1705.RS1_REFRESH_SERVER_EVAL_X64FRE_IT-IT.ISO",
+    "status": 200,
+    "bytes": "6939627520",
+    "ok": true
+  },
+  {
+    "release": "2016",
+    "language": "jajp",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195174&clcid=0x411&culture=ja-jp&country=JP",
+    "final": "https://download.microsoft.com/download/E/0/9/E090BDF4-CA1D-4F2E-BC1C-232A946BC21D/14393.0.161119-1705.RS1_REFRESH_SERVER_EVAL_X64FRE_JA-JP.ISO",
+    "status": 200,
+    "bytes": "7176462336",
+    "ok": true
+  },
+  {
+    "release": "2016",
+    "language": "ruru",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195174&clcid=0x419&culture=ru-ru&country=RU",
+    "final": "https://download.microsoft.com/download/0/D/4/0D41501C-EEBC-4481-8A37-14A56A64BFDA/14393.0.161119-1705.RS1_REFRESH_SERVER_EVAL_X64FRE_RU-RU.ISO",
+    "status": 200,
+    "bytes": "7004499968",
+    "ok": true
+  },
+  {
+    "release": "2016",
+    "language": "eses",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195174&clcid=0x40a&culture=es-es&country=ES",
+    "final": "https://download.microsoft.com/download/7/6/9/769D6905-3BC7-4CF0-B3BD-785EC88767AF/14393.0.161119-1705.RS1_REFRESH_SERVER_EVAL_X64FRE_ES-ES.ISO",
+    "status": 200,
+    "bytes": "6996785152",
+    "ok": true
+  },
+  {
+    "release": "2012R2",
+    "language": "enus",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195443&clcid=0x409&culture=en-us&country=US",
+    "final": "https://download.microsoft.com/download/6/2/A/62A76ABB-9990-4EFC-A4FE-C7D698DAEB96/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_EN-US-IR3_SSS_X64FREE_EN-US_DV9.ISO",
+    "status": 200,
+    "bytes": "4542291968",
+    "ok": true
+  },
+  {
+    "release": "2012R2",
+    "language": "zhcn",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195443&clcid=0x804&culture=zh-cn&country=CN",
+    "final": "https://download.microsoft.com/download/D/6/7/D675380B-0028-46B3-B47F-A0646E859F76/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_ZH-CN-IR3_SSS_X64FREE_ZH-CN_DV9.ISO",
+    "status": 200,
+    "bytes": "4679516160",
+    "ok": true
+  },
+  {
+    "release": "2012R2",
+    "language": "frfr",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195443&clcid=0x40c&culture=fr-fr&country=FR",
+    "final": "https://download.microsoft.com/download/F/D/2/FD241849-F219-40ED-B65C-64D274A6B46F/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_FR-FR-IR3_SSS_X64FREE_FR-FR_DV9.ISO",
+    "status": 200,
+    "bytes": "4595161088",
+    "ok": true
+  },
+  {
+    "release": "2012R2",
+    "language": "dede",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195443&clcid=0x407&culture=de-de&country=DE",
+    "final": "https://download.microsoft.com/download/3/3/4/33482C88-DBFB-43F6-925A-7E684D072B15/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_DE-DE-IR3_SSS_X64FREE_DE-DE_DV9.ISO",
+    "status": 200,
+    "bytes": "4582963200",
+    "ok": true
+  },
+  {
+    "release": "2012R2",
+    "language": "itit",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195443&clcid=0x410&culture=it-it&country=IT",
+    "final": "https://download.microsoft.com/download/9/E/C/9EC778B5-75BA-45A0-8190-FCBE62F82D37/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_IT-IT-IR3_SSS_X64FREE_IT-IT_DV9.ISO",
+    "status": 200,
+    "bytes": "4590807040",
+    "ok": true
+  },
+  {
+    "release": "2012R2",
+    "language": "jajp",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195443&clcid=0x411&culture=ja-jp&country=JP",
+    "final": "https://download.microsoft.com/download/5/D/7/5D75EE07-139E-4A96-A3A5-1831C7D28F6F/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_JA-JP-IR3_SSS_X64FREE_JA-JP_DV9.ISO",
+    "status": 200,
+    "bytes": "4622923776",
+    "ok": true
+  },
+  {
+    "release": "2012R2",
+    "language": "ruru",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195443&clcid=0x419&culture=ru-ru&country=RU",
+    "final": "https://download.microsoft.com/download/4/4/C/44C512F9-7924-4609-A39A-D5865759006A/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_RU-RU-IR3_SSS_X64FREE_RU-RU_DV9.ISO",
+    "status": 200,
+    "bytes": "4603924480",
+    "ok": true
+  },
+  {
+    "release": "2012R2",
+    "language": "eses",
+    "url": "https://go.microsoft.com/fwlink/p/?LinkID=2195443&clcid=0x40a&culture=es-es&country=ES",
+    "final": "https://download.microsoft.com/download/9/E/6/9E610F2E-2C25-49EF-820B-408324F9100D/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_ES-ES-IR3_SSS_X64FREE_ES-ES_DV9.ISO",
+    "status": 200,
+    "bytes": "4591550464",
+    "ok": true
+  },
+  {
+    "release": "2012",
+    "language": "enus",
+    "url": "https://download.microsoft.com/download/6/D/A/6DAB58BA-F939-451D-9101-7DE07DC09C03/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_EN-US-HRM_SSS_X64FREE_EN-US_DV5.ISO",
+    "final": "https://download.microsoft.com/download/6/D/A/6DAB58BA-F939-451D-9101-7DE07DC09C03/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_EN-US-HRM_SSS_X64FREE_EN-US_DV5.ISO",
+    "status": 200,
+    "bytes": "3694962688",
+    "ok": true
+  },
+  {
+    "release": "2012",
+    "language": "zhcn",
+    "url": "https://download.microsoft.com/download/2/8/7/287E63DD-3A27-4469-9094-5F7B7C4BF828/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_ZH-CN-HRM_SSS_X64FREE_ZH-CN_DV5.ISO",
+    "final": "https://download.microsoft.com/download/2/8/7/287E63DD-3A27-4469-9094-5F7B7C4BF828/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_ZH-CN-HRM_SSS_X64FREE_ZH-CN_DV5.ISO",
+    "status": 200,
+    "bytes": "3826700288",
+    "ok": true
+  },
+  {
+    "release": "2012",
+    "language": "frfr",
+    "url": "https://download.microsoft.com/download/C/8/3/C8330E01-F91D-4232-9BC8-BBC75514B1D2/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_FR-FR-HRM_SSS_X64FREE_FR-FR_DV5.ISO",
+    "final": "https://download.microsoft.com/download/C/8/3/C8330E01-F91D-4232-9BC8-BBC75514B1D2/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_FR-FR-HRM_SSS_X64FREE_FR-FR_DV5.ISO",
+    "status": 200,
+    "bytes": "3738200064",
+    "ok": true
+  },
+  {
+    "release": "2012",
+    "language": "dede",
+    "url": "https://download.microsoft.com/download/7/C/6/7C6A5A9A-321B-4EF8-95FD-0A483C1EBDC2/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_DE-DE-HRM_SSS_X64FREE_DE-DE_DV5.ISO",
+    "final": "https://download.microsoft.com/download/7/C/6/7C6A5A9A-321B-4EF8-95FD-0A483C1EBDC2/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_DE-DE-HRM_SSS_X64FREE_DE-DE_DV5.ISO",
+    "status": 200,
+    "bytes": "3738703872",
+    "ok": true
+  },
+  {
+    "release": "2012",
+    "language": "itit",
+    "url": "https://download.microsoft.com/download/6/6/F/66F1747B-1F39-4D4A-846E-D4F75F019B80/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_IT-IT-HRM_SSS_X64FREE_IT-IT_DV5.ISO",
+    "final": "https://download.microsoft.com/download/6/6/F/66F1747B-1F39-4D4A-846E-D4F75F019B80/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_IT-IT-HRM_SSS_X64FREE_IT-IT_DV5.ISO",
+    "status": 200,
+    "bytes": "3728451584",
+    "ok": true
+  },
+  {
+    "release": "2012",
+    "language": "jajp",
+    "url": "https://download.microsoft.com/download/A/D/C/ADC0B6E5-26E6-4084-BAF4-38180C9C9721/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_JA-JP-HRM_SSS_X64FREE_JA-JP_DV5.ISO",
+    "final": "https://download.microsoft.com/download/A/D/C/ADC0B6E5-26E6-4084-BAF4-38180C9C9721/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_JA-JP-HRM_SSS_X64FREE_JA-JP_DV5.ISO",
+    "status": 200,
+    "bytes": "3771047936",
+    "ok": true
+  },
+  {
+    "release": "2012",
+    "language": "ruru",
+    "url": "https://download.microsoft.com/download/2/C/E/2CE2D1FC-D4F2-4F91-BF53-FCBB8960D2F1/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_RU-RU-HRM_SSS_X64FREE_RU-RU_DV5.ISO",
+    "final": "https://download.microsoft.com/download/2/C/E/2CE2D1FC-D4F2-4F91-BF53-FCBB8960D2F1/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_RU-RU-HRM_SSS_X64FREE_RU-RU_DV5.ISO",
+    "status": 200,
+    "bytes": "3741601792",
+    "ok": true
+  },
+  {
+    "release": "2012",
+    "language": "eses",
+    "url": "https://download.microsoft.com/download/9/7/2/97274F04-05B9-488E-A96F-5B29C14E4D31/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_ES-ES-HRM_SSS_X64FREE_ES-ES_DV5.ISO",
+    "final": "https://download.microsoft.com/download/9/7/2/97274F04-05B9-488E-A96F-5B29C14E4D31/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_ES-ES-HRM_SSS_X64FREE_ES-ES_DV5.ISO",
+    "status": 200,
+    "bytes": "3736242176",
+    "ok": true
+  },
+  {
+    "release": "2025",
+    "language": "enus",
+    "url": "https://aka.ms/WinServ2025iso-enus",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/998969d5-f34g-4e03-ac9d-1f9786c66749/26100.32230.260111-0550.lt_release_svc_refresh_SERVER_EVAL_x64FRE_en-us.iso",
+    "status": 200,
+    "bytes": "8152356864",
+    "ok": true
+  },
+  {
+    "release": "2025",
+    "language": "zhcn",
+    "url": "https://aka.ms/WinServ2025iso-zhcn",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/998969d5-f34g-4e03-ac9d-1f9786c66749/26100.32230.260111-0550.lt_release_svc_refresh_SERVER_EVAL_x64FRE_zh-cn.iso",
+    "status": 200,
+    "bytes": "8423151616",
+    "ok": true
+  },
+  {
+    "release": "2025",
+    "language": "frfr",
+    "url": "https://aka.ms/WinServ2025iso-frfr",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/998969d5-f34g-4e03-ac9d-1f9786c66749/26100.32230.260111-0550.lt_release_svc_refresh_SERVER_EVAL_x64FRE_fr-fr.iso",
+    "status": 200,
+    "bytes": "8178149376",
+    "ok": true
+  },
+  {
+    "release": "2025",
+    "language": "dede",
+    "url": "https://aka.ms/WinServ2025iso-dede",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/998969d5-f34g-4e03-ac9d-1f9786c66749/26100.32230.260111-0550.lt_release_svc_refresh_SERVER_EVAL_x64FRE_de-de.iso",
+    "status": 200,
+    "bytes": "8215252992",
+    "ok": true
+  },
+  {
+    "release": "2025",
+    "language": "itit",
+    "url": "https://aka.ms/WinServ2025iso-itit",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/998969d5-f34g-4e03-ac9d-1f9786c66749/26100.32230.260111-0550.lt_release_svc_refresh_SERVER_EVAL_x64FRE_it-it.iso",
+    "status": 200,
+    "bytes": "8101756928",
+    "ok": true
+  },
+  {
+    "release": "2025",
+    "language": "jajp",
+    "url": "https://aka.ms/WinServ2025iso-jajp",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/998969d5-f34g-4e03-ac9d-1f9786c66749/26100.32230.260111-0550.lt_release_svc_refresh_SERVER_EVAL_x64FRE_ja-jp.iso",
+    "status": 200,
+    "bytes": "8313868288",
+    "ok": true
+  },
+  {
+    "release": "2025",
+    "language": "ruru",
+    "url": "https://aka.ms/WinServ2025iso-ruru",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/998969d5-f34g-4e03-ac9d-1f9786c66749/26100.32230.260111-0550.lt_release_svc_refresh_SERVER_EVAL_x64FRE_ru-ru.iso",
+    "status": 200,
+    "bytes": "8110213120",
+    "ok": true
+  },
+  {
+    "release": "2025",
+    "language": "eses",
+    "url": "https://aka.ms/WinServ2025iso-eses",
+    "final": "https://software-static.download.prss.microsoft.com/dbazure/998969d5-f34g-4e03-ac9d-1f9786c66749/26100.32230.260111-0550.lt_release_svc_refresh_SERVER_EVAL_x64FRE_es-es.iso",
+    "status": 200,
+    "bytes": "8161130496",
+    "ok": true
+  }
+]

@@ -1,0 +1,32 @@
+name: Weekly Server link health
+on:
+  schedule:
+    - cron: '17 6 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+concurrency:
+  group: server-link-health
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-dotnet@67a3573c9a986a3f9c594539f4ab511d57bb3ce9 # v4
+        with:
+          dotnet-version: '8.0.x'
+      - name: Export every link from the actual ServerCatalog
+        run: dotnet run --project Tests/CatalogTests.csproj -c Release -- --export-links server-links.json
+      - name: Probe and reconcile a single issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 Scripts/link_health.py server-links.json --report link-health.json --issues
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        if: always()
+        with:
+          name: server-link-health
+          path: link-health.json
+          if-no-files-found: warn

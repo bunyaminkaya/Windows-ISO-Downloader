@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF><UseWindowsForms>true</UseWindowsForms>
+    <Version>3.6.0</Version>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>Windows ISO Downloader</AssemblyName>
+    <RootNamespace>WindowsISODownloader</RootNamespace>
+    <ApplicationIcon>Assets\WindowsISODownloader.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="Assets\WindowsISODownloader.ico" />
+    <Resource Include="Assets\WindowsISODownloader.png" />
+  <Resource Include="Assets\SiteLogo-light.png" /><EmbeddedResource Include="Fido.ps1" LogicalName="WindowsISODownloader.Fido.ps1" /><EmbeddedResource Include="Office-Kur.template.ps1" LogicalName="WindowsISODownloader.Office-Kur.template.ps1" /><Using Remove="System.Windows.Forms" /><Using Remove="System.Drawing" /></ItemGroup>
+</Project>

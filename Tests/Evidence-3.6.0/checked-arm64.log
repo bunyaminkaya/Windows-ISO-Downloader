@@ -1,0 +1,5 @@
+MSBuild version 17.11.48+02bf66295 for .NET
+  Determining projects to restore...
+  Restored /workspace/scratch/79a7a83a431d/current/source/WindowsISODownloader/WindowsISODownloader.csproj (in 430 ms).
+  WindowsISODownloader -> /workspace/scratch/79a7a83a431d/current/source/WindowsISODownloader/bin/Release/net8.0-windows/win-arm64/Windows ISO Downloader.dll
+  WindowsISODownloader -> /workspace/scratch/79a7a83a431d/deliverables/v3.6.0-win-arm64/

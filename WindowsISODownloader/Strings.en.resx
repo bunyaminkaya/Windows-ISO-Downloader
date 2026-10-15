@@ -1,0 +1,680 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="Text_0210456b4705" xml:space="preserve">
+    <value>Could not retrieve Microsoft version</value>
+  </data>
+  <data name="Text_039b3f90960c" xml:space="preserve">
+    <value>Windows guides and free tools</value>
+  </data>
+  <data name="Text_04cf48bf6082" xml:space="preserve">
+    <value>Embedded Fido integrity reference is missing.</value>
+  </data>
+  <data name="Text_0613080b8329" xml:space="preserve">
+    <value>SHA-256 values match.</value>
+  </data>
+  <data name="Text_064b9a994007" xml:space="preserve">
+    <value>Office 2019 Volume files are downloaded with ODT. A valid license is required; support has ended.</value>
+  </data>
+  <data name="Text_0f7eecd29cde" xml:space="preserve">
+    <value>Resume range rejected; retrying from the beginning.</value>
+  </data>
+  <data name="Text_0fccf3569e46" xml:space="preserve">
+    <value>Too many download redirects.</value>
+  </data>
+  <data name="Text_107ac8a4fd6d" xml:space="preserve">
+    <value>The Office Deployment Tool download URL was not found.</value>
+  </data>
+  <data name="Text_1311fc9489a3" xml:space="preserve">
+    <value>Expected SHA-256 (optional)</value>
+  </data>
+  <data name="Text_1335b4801d43" xml:space="preserve">
+    <value>The Edge Stable MSI is selected from Microsoft enterprise release data.</value>
+  </data>
+  <data name="Text_13e0aceef568" xml:space="preserve">
+    <value>The Office 2016 Retail IMG is downloaded from Microsoft CDN. A valid license is required; support has ended.</value>
+  </data>
+  <data name="Text_15b25e830f69" xml:space="preserve">
+    <value>Multipart evaluation VHD for a virtual machine. All parts are saved in one folder; this is not an ISO. The archive is not executed automatically.</value>
+  </data>
+  <data name="Text_15b3b491cd03" xml:space="preserve">
+    <value>Downloading file...</value>
+  </data>
+  <data name="Text_1808b9297e37" xml:space="preserve">
+    <value>Microsoft does not offer this LTSC edition and architecture.</value>
+  </data>
+  <data name="Text_1836a03f7a4a" xml:space="preserve">
+    <value>↗  Visit website</value>
+  </data>
+  <data name="Text_19b2dd70dce6" xml:space="preserve">
+    <value>Fido.ps1 has changed. Extract the complete original application package again.</value>
+  </data>
+  <data name="Text_1a24cc9dedd3" xml:space="preserve">
+    <value>You are using the latest release.</value>
+  </data>
+  <data name="Text_1a85300df2ca" xml:space="preserve">
+    <value>Office channel</value>
+  </data>
+  <data name="Text_1cd89461cec7" xml:space="preserve">
+    <value>Disk image (*.img)|*.img</value>
+  </data>
+  <data name="Text_1d7ecdebf191" xml:space="preserve">
+    <value>Server 2025 Evaluation (Build </value>
+  </data>
+  <data name="Text_1dd9f2981ef7" xml:space="preserve">
+    <value>Content length exceeded.</value>
+  </data>
+  <data name="Text_22edbe1fbf15" xml:space="preserve">
+    <value>Download failed.</value>
+  </data>
+  <data name="Text_28a3860ee475" xml:space="preserve">
+    <value> • Retry </value>
+  </data>
+  <data name="Text_2a6f7e3ba15d" xml:space="preserve">
+    <value>Save file</value>
+  </data>
+  <data name="Text_2b8a28da3e98" xml:space="preserve">
+    <value>ISO mounted.</value>
+  </data>
+  <data name="Text_2c74511abb68" xml:space="preserve">
+    <value>Microsoft deployment tool exited with code: </value>
+  </data>
+  <data name="Text_2d83ea2acfb0" xml:space="preserve">
+    <value>Stable (checking version...)</value>
+  </data>
+  <data name="Text_2d8a366eb0c0" xml:space="preserve">
+    <value>Select the product, version, architecture and language to download.</value>
+  </data>
+  <data name="Text_2f46ad6dde36" xml:space="preserve">
+    <value>Microsoft did not return a verifiable file name for the selected historical version; no different version was downloaded.</value>
+  </data>
+  <data name="Text_2fc122b8eb2d" xml:space="preserve">
+    <value>The VS Code user installer is downloaded from its official update service.</value>
+  </data>
+  <data name="Text_32487620277f" xml:space="preserve">
+    <value>The network request timed out; please retry.</value>
+  </data>
+  <data name="Text_36f4f3933670" xml:space="preserve">
+    <value>Multilingual MSI</value>
+  </data>
+  <data name="Text_37a5701905d4" xml:space="preserve">
+    <value>The Office deployment tool, configuration and installation files are downloaded.</value>
+  </data>
+  <data name="Text_3c52000302e4" xml:space="preserve">
+    <value>Office files are downloaded into a separate package folder. configuration.xml, setup.exe and Office-Kur.cmd are retained for installation.</value>
+  </data>
+  <data name="Text_3c6577b3d64d" xml:space="preserve">
+    <value> available — signature and hash verification pending.</value>
+  </data>
+  <data name="Text_3de184e0aee9" xml:space="preserve">
+    <value>Update check failed: </value>
+  </data>
+  <data name="Text_3f312af12605" xml:space="preserve">
+    <value>SHA-256 values DO NOT match.</value>
+  </data>
+  <data name="Text_3ff9272cc9e5" xml:space="preserve">
+    <value>Apply options</value>
+  </data>
+  <data name="Text_40e6c9f09501" xml:space="preserve">
+    <value>Office files could not be completed; the deployment tool was saved.</value>
+  </data>
+  <data name="Text_4a4e022d5374" xml:space="preserve">
+    <value>The download failed; partial data was retained for resuming.</value>
+  </data>
+  <data name="Text_4be503939e49" xml:space="preserve">
+    <value>Installer selects</value>
+  </data>
+  <data name="Text_4c88961929c3" xml:space="preserve">
+    <value>File language</value>
+  </data>
+  <data name="Text_4ea81d47189c" xml:space="preserve">
+    <value>No Edge Stable MSI was found for this architecture.</value>
+  </data>
+  <data name="Text_4efca0d10c5f" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="Text_4efe679cdde8" xml:space="preserve">
+    <value>SHA-256 does not match publisher metadata.</value>
+  </data>
+  <data name="Text_52438fa9dd5b" xml:space="preserve">
+    <value>Visio and Project require separate valid licenses. Installation starts only when you choose it after downloading.</value>
+  </data>
+  <data name="Text_538c473b5f10" xml:space="preserve">
+    <value>Download complete: </value>
+  </data>
+  <data name="Text_581ccff7f438" xml:space="preserve">
+    <value>Download complete.</value>
+  </data>
+  <data name="Text_594e3032965c" xml:space="preserve">
+    <value>Downloading VHD part: </value>
+  </data>
+  <data name="Text_59750f262f24" xml:space="preserve">
+    <value>The Office 2016 edition or language is not recognized.</value>
+  </data>
+  <data name="Text_60acc53f13a5" xml:space="preserve">
+    <value>Dark</value>
+  </data>
+  <data name="Text_612abf4b6ea8" xml:space="preserve">
+    <value>SHA-256: computed value; compare it with a trusted source.</value>
+  </data>
+  <data name="Text_620b685b667f" xml:space="preserve">
+    <value>Email: </value>
+  </data>
+  <data name="Text_628f63a67cbb" xml:space="preserve">
+    <value>Verify new release</value>
+  </data>
+  <data name="Text_629f75d4a6aa" xml:space="preserve">
+    <value>Package default</value>
+  </data>
+  <data name="Text_6355bb362165" xml:space="preserve">
+    <value>Retrieving the current file link from Microsoft...</value>
+  </data>
+  <data name="Text_65fd4fc0f852" xml:space="preserve">
+    <value>The latest tool package is downloaded as a ZIP.</value>
+  </data>
+  <data name="Text_6704bc43917d" xml:space="preserve">
+    <value>No download data arrived before the inactivity timeout.</value>
+  </data>
+  <data name="Text_6725e7bbcd28" xml:space="preserve">
+    <value>System</value>
+  </data>
+  <data name="Text_689dcb008144" xml:space="preserve">
+    <value>The current Windows 11 multi-edition ISO published by Microsoft is downloaded.</value>
+  </data>
+  <data name="Text_68b37f824c80" xml:space="preserve">
+    <value>Publisher signature could not be verified. The current and new EXE must have valid signatures from the same publisher.</value>
+  </data>
+  <data name="Text_694e0cba819f" xml:space="preserve">
+    <value>Could not retrieve PowerToys version: </value>
+  </data>
+  <data name="Text_6a418377458f" xml:space="preserve">
+    <value>Verifying the update package; it will not be installed.</value>
+  </data>
+  <data name="Text_6a9084025c4b" xml:space="preserve">
+    <value>Open folder</value>
+  </data>
+  <data name="Text_6be464afdc14" xml:space="preserve">
+    <value>The Windows 10 22H2 multi-edition ISO is downloaded from Microsoft.</value>
+  </data>
+  <data name="Text_6d2cd6bbfe69" xml:space="preserve">
+    <value>Could not mount ISO</value>
+  </data>
+  <data name="Text_6ddbf8cd2a7b" xml:space="preserve">
+    <value>Loading release metadata...</value>
+  </data>
+  <data name="Text_6e7aac65db01" xml:space="preserve">
+    <value>Turkish</value>
+  </data>
+  <data name="Text_6ed45e24c780" xml:space="preserve">
+    <value>Not enough free disk space.</value>
+  </data>
+  <data name="Text_6fafcf6b261a" xml:space="preserve">
+    <value>Choose the VHD package save folder</value>
+  </data>
+  <data name="Text_72023bce815a" xml:space="preserve">
+    <value>180-day evaluation ISO. Choose any of the 8 media languages. Select Core or Desktop Experience during setup; Turkish is not offered by these sources.</value>
+  </data>
+  <data name="Text_724be8b2de24" xml:space="preserve">
+    <value>Update verification failed: </value>
+  </data>
+  <data name="Text_728a3f41089b" xml:space="preserve">
+    <value>Download status</value>
+  </data>
+  <data name="Text_73ac3b393fb5" xml:space="preserve">
+    <value>Partial data was retained. Use the same selections and destination to resume.</value>
+  </data>
+  <data name="Text_73dc3851baf4" xml:space="preserve">
+    <value>ODT could not be extracted; the downloaded EXE was saved.</value>
+  </data>
+  <data name="Text_740cb53032c2" xml:space="preserve">
+    <value>About — Windows ISO Downloader</value>
+  </data>
+  <data name="Text_7660c90492a5" xml:space="preserve">
+    <value>The Microsoft evaluation ISO is downloaded.</value>
+  </data>
+  <data name="Text_767791c52c04" xml:space="preserve">
+    <value>Remaining: </value>
+  </data>
+  <data name="Text_76a113fb9d7b" xml:space="preserve">
+    <value>Could not open link: </value>
+  </data>
+  <data name="Text_7834e39f29bd" xml:space="preserve">
+    <value> — run Office-Kur.cmd to install.</value>
+  </data>
+  <data name="Text_78c3e7d67e3a" xml:space="preserve">
+    <value>The staging folder does not belong to this package; choose another destination.</value>
+  </data>
+  <data name="Text_793cda129d8c" xml:space="preserve">
+    <value>The Sysinternals Suite ZIP is downloaded from Microsoft.</value>
+  </data>
+  <data name="Text_7bc73f632810" xml:space="preserve">
+    <value>This may take a moment depending on your connection.</value>
+  </data>
+  <data name="Text_7c911eb31320" xml:space="preserve">
+    <value>Copy SHA-256</value>
+  </data>
+  <data name="Text_7d9eb7acb13e" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="Text_8027f432a7fb" xml:space="preserve">
+    <value>Interface language</value>
+  </data>
+  <data name="Text_8076ee4fa43d" xml:space="preserve">
+    <value>New release SHA-256 and publisher signature verified.</value>
+  </data>
+  <data name="Text_80e495730238" xml:space="preserve">
+    <value>Windows Server 2025 180-day evaluation ISO. Turkish is not available for this release.</value>
+  </data>
+  <data name="Text_843055c2a695" xml:space="preserve">
+    <value>Could not retrieve Edge version: </value>
+  </data>
+  <data name="Text_8448a5a88cec" xml:space="preserve">
+    <value>Could not retrieve a Microsoft ISO link. </value>
+  </data>
+  <data name="Text_858e4ba7a29f" xml:space="preserve">
+    <value>Pause</value>
+  </data>
+  <data name="Text_85e83fbc5d62" xml:space="preserve">
+    <value>Product and file selection</value>
+  </data>
+  <data name="Text_86ff063c34b6" xml:space="preserve">
+    <value>Untrusted download destination: </value>
+  </data>
+  <data name="Text_89528da3a485" xml:space="preserve">
+    <value>Missing ISO link resolver: Fido.ps1</value>
+  </data>
+  <data name="Text_8f3c3876c216" xml:space="preserve">
+    <value> The Download button will retry.</value>
+  </data>
+  <data name="Text_90297601967c" xml:space="preserve">
+    <value>Invalid publisher SHA-256 metadata.</value>
+  </data>
+  <data name="Text_918c4a7d9a47" xml:space="preserve">
+    <value>The current Microsoft ISO product ID was not found.</value>
+  </data>
+  <data name="Text_92b2c95e99f0" xml:space="preserve">
+    <value>Version </value>
+  </data>
+  <data name="Text_92d3e63f37ac" xml:space="preserve">
+    <value>Redirect has no destination.</value>
+  </data>
+  <data name="Text_97a72f1fc34a" xml:space="preserve">
+    <value>The Office 2016 IMG disk image is downloaded directly from Microsoft CDN.</value>
+  </data>
+  <data name="Text_98354f359c8e" xml:space="preserve">
+    <value>Checking latest version...</value>
+  </data>
+  <data name="Text_99254275a6b4" xml:space="preserve">
+    <value>The latest installer is downloaded.</value>
+  </data>
+  <data name="Text_9de4149fb971" xml:space="preserve">
+    <value>Download file</value>
+  </data>
+  <data name="Text_9e2483cc592f" xml:space="preserve">
+    <value>This app is not affiliated with Microsoft. LTSC evaluation files are time limited. A valid license is required to install Office. ISO link resolution uses Fido by Pete Batard (GPL-3.0-or-later). Source and FIDO-LICENSE.txt are provided with the package.</value>
+  </data>
+  <data name="Text_9f147df4c4b5" xml:space="preserve">
+    <value>The Microsoft digital signature could not be verified; the file was not executed.</value>
+  </data>
+  <data name="Text_a18ed47aec4a" xml:space="preserve">
+    <value>Signature info</value>
+  </data>
+  <data name="Text_a53ddca30276" xml:space="preserve">
+    <value>ZIP archive (*.zip)|*.zip</value>
+  </data>
+  <data name="Text_a56ef00cb485" xml:space="preserve">
+    <value>No version number was found on the Microsoft page.</value>
+  </data>
+  <data name="Text_a6e5cf9f35c5" xml:space="preserve">
+    <value>Office installation script is missing.</value>
+  </data>
+  <data name="Text_a7b22e40b62f" xml:space="preserve">
+    <value>Incomplete transfer; retrying.</value>
+  </data>
+  <data name="Text_a7bd59bd7841" xml:space="preserve">
+    <value>Checking Windows 10 version...</value>
+  </data>
+  <data name="Text_a9afd2388c79" xml:space="preserve">
+    <value>An unexpected application error occurred. Details were saved to %LOCALAPPDATA%\WID\hata.log.
+
+</value>
+  </data>
+  <data name="Text_a9cfda34d193" xml:space="preserve">
+    <value>The ISO is downloaded from Microsoft without opening a browser.</value>
+  </data>
+  <data name="Text_ab275fdd73ae" xml:space="preserve">
+    <value>English x64 evaluation VHD/VHDX for virtual machines.</value>
+  </data>
+  <data name="Text_ac9852af71ab" xml:space="preserve">
+    <value>Official installation package. Bootstrappers download payloads during setup.</value>
+  </data>
+  <data name="Text_aef9627fbabf" xml:space="preserve">
+    <value>Could not retrieve Office version: </value>
+  </data>
+  <data name="Text_b0af9a3b0566" xml:space="preserve">
+    <value>Paused; no file data has been received yet.</value>
+  </data>
+  <data name="Text_b0f6330c0d90" xml:space="preserve">
+    <value>Archive exceeds signature inspection limits.</value>
+  </data>
+  <data name="Text_b20f17e588a2" xml:space="preserve">
+    <value>Update SHA-256 does not match.</value>
+  </data>
+  <data name="Text_b36e4abc7de3" xml:space="preserve">
+    <value>Paste the expected SHA-256 value.</value>
+  </data>
+  <data name="Text_b8966881fb0c" xml:space="preserve">
+    <value>Application (*.exe)|*.exe</value>
+  </data>
+  <data name="Text_ba30bd81759f" xml:space="preserve">
+    <value>New release available</value>
+  </data>
+  <data name="Text_ba36ec507c4d" xml:space="preserve">
+    <value>Microsoft 90-day evaluation ISOs. The IoT edition also supports ARM64; the language is English.</value>
+  </data>
+  <data name="Text_bb9755f32f23" xml:space="preserve">
+    <value>Multilingual</value>
+  </data>
+  <data name="Text_be296fc83a75" xml:space="preserve">
+    <value>Could not start the link resolver.</value>
+  </data>
+  <data name="Text_be7e41a930f4" xml:space="preserve">
+    <value>Office files: </value>
+  </data>
+  <data name="Text_bf9e126de78c" xml:space="preserve">
+    <value>Latest package</value>
+  </data>
+  <data name="Text_c06398d11400" xml:space="preserve">
+    <value>Could not retrieve Server version: </value>
+  </data>
+  <data name="Text_c2f5d78dd12f" xml:space="preserve">
+    <value>The Microsoft deployment tool could not start.</value>
+  </data>
+  <data name="Text_c37ccc46aee1" xml:space="preserve">
+    <value>Resume response does not match the file identity or size.</value>
+  </data>
+  <data name="Text_c5debbade126" xml:space="preserve">
+    <value>The VHD destination already exists. Choose another save folder: </value>
+  </data>
+  <data name="Text_c7505809432c" xml:space="preserve">
+    <value>ODT completed, but Office files were not found. The EXE was saved.</value>
+  </data>
+  <data name="Text_c83a971301f0" xml:space="preserve">
+    <value>Server 2025 Evaluation (checking version...)</value>
+  </data>
+  <data name="Text_c9d41df82dec" xml:space="preserve">
+    <value>The Microsoft version lookup timed out.</value>
+  </data>
+  <data name="Text_cae9d8e32c71" xml:space="preserve">
+    <value>x64 / x86 disk image</value>
+  </data>
+  <data name="Text_cb8ef63904fd" xml:space="preserve">
+    <value>Mount ISO</value>
+  </data>
+  <data name="Text_cc333b5e2e21" xml:space="preserve">
+    <value>Install Office</value>
+  </data>
+  <data name="Text_cd74053c5481" xml:space="preserve">
+    <value>Architecture</value>
+  </data>
+  <data name="Text_ce313ea4ba99" xml:space="preserve">
+    <value>Choose a file and start the download.</value>
+  </data>
+  <data name="Text_d19b293941c5" xml:space="preserve">
+    <value>Media languages (select multiple)</value>
+  </data>
+  <data name="Text_d33569ce0348" xml:space="preserve">
+    <value>The 90-day evaluation ISO is downloaded from Microsoft.</value>
+  </data>
+  <data name="Text_d3ca50807393" xml:space="preserve">
+    <value>Applications to exclude</value>
+  </data>
+  <data name="Text_d3ffa28d4d42" xml:space="preserve">
+    <value>No EXE files found in the archive.</value>
+  </data>
+  <data name="Text_db40405f2f37" xml:space="preserve">
+    <value>ISO disk image (*.iso)|*.iso</value>
+  </data>
+  <data name="Text_dbcd5e7bb7a0" xml:space="preserve">
+    <value>Light</value>
+  </data>
+  <data name="Text_dd167905de0d" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="Text_dec1fe42ed26" xml:space="preserve">
+    <value> (Fido catalog)</value>
+  </data>
+  <data name="Text_dfa893bf446c" xml:space="preserve">
+    <value>Stable (latest)</value>
+  </data>
+  <data name="Text_e115ea135e29" xml:space="preserve">
+    <value>Multilingual / during setup</value>
+  </data>
+  <data name="Text_e19876e427ee" xml:space="preserve">
+    <value>Unexpected file type.</value>
+  </data>
+  <data name="Text_e29b2717dcaf" xml:space="preserve">
+    <value>Office options</value>
+  </data>
+  <data name="Text_e7a50435a351" xml:space="preserve">
+    <value>The request timed out.</value>
+  </data>
+  <data name="Text_e888155d8c7d" xml:space="preserve">
+    <value>Compare</value>
+  </data>
+  <data name="Text_e89a97c91ead" xml:space="preserve">
+    <value>The PowerToys installer is downloaded from the official Microsoft GitHub release.</value>
+  </data>
+  <data name="Text_ea38a28c2860" xml:space="preserve">
+    <value>Checking Windows 11 version...</value>
+  </data>
+  <data name="Text_ec9841a5309a" xml:space="preserve">
+    <value>Download canceled.</value>
+  </data>
+  <data name="Text_ef7cd3929976" xml:space="preserve">
+    <value>Developer: Bünyamin Kaya</value>
+  </data>
+  <data name="Text_efb52e7172b7" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="Text_f0b79bd33747" xml:space="preserve">
+    <value>Downloading Office installation files...</value>
+  </data>
+  <data name="Text_f20c2c2589ea" xml:space="preserve">
+    <value>No official PowerToys installer was found for this architecture.</value>
+  </data>
+  <data name="Text_f26f3275e735" xml:space="preserve">
+    <value>Check for updates</value>
+  </data>
+  <data name="Text_f326ad874498" xml:space="preserve">
+    <value>Signature information</value>
+  </data>
+  <data name="Text_f9787ca016c4" xml:space="preserve">
+    <value>No official file was found for this product.</value>
+  </data>
+  <data name="Text_fa0ed02a755b" xml:space="preserve">
+    <value>A Windows 10 ARM64 ISO is not available from this source.</value>
+  </data>
+  <data name="Text_fa100960595c" xml:space="preserve">
+    <value>The server returned an unexpectedly small response.</value>
+  </data>
+  <data name="Text_fadc4f73fa74" xml:space="preserve">
+    <value>The latest Microsoft Edge MSI is downloaded.</value>
+  </data>
+  <data name="Text_fadfdd9e5130" xml:space="preserve">
+    <value>Could not open website</value>
+  </data>
+  <data name="Text_fb9ef894175c" xml:space="preserve">
+    <value>Product</value>
+  </data>
+  <data name="Text_fe517d63a730" xml:space="preserve">
+    <value>120-day English evaluation ISO. This is a legacy operating system.</value>
+  </data>
+  <data name="Error_bedcf718604a" xml:space="preserve">
+    <value>Unsupported ODT product.</value>
+  </data>
+  <data name="Error_1616b7cca539" xml:space="preserve">
+    <value>Unsupported Office channel.</value>
+  </data>
+  <data name="Error_51435d3f8de3" xml:space="preserve">
+    <value>Unsupported or duplicate Office language.</value>
+  </data>
+  <data name="Error_193338a20be3" xml:space="preserve">
+    <value>Unsupported excluded application.</value>
+  </data>
+  <data name="Error_cc5f48ac8f87" xml:space="preserve">
+    <value>Unsupported Office architecture.</value>
+  </data>
+  <data name="Error_bed9f72719ca" xml:space="preserve">
+    <value>Unsupported product.</value>
+  </data>
+  <data name="Error_4d549603d106" xml:space="preserve">
+    <value>Unsupported product or architecture.</value>
+  </data>
+  <data name="Error_3c8b9f25fa13" xml:space="preserve">
+    <value>Unsupported .NET release.</value>
+  </data>
+  <data name="Error_4e1d69341dd1" xml:space="preserve">
+    <value>No .NET installer is published for this architecture.</value>
+  </data>
+  <data name="Error_d813f4caca79" xml:space="preserve">
+    <value>Untrusted .NET installer URL.</value>
+  </data>
+  <data name="Error_07a8308e3dd4" xml:space="preserve">
+    <value>Invalid .NET SHA-512 metadata.</value>
+  </data>
+  <data name="Error_30f3d0eb2f5b" xml:space="preserve">
+    <value>No matching stable .NET installer found.</value>
+  </data>
+  <data name="Error_b9b0c0a413fb" xml:space="preserve">
+    <value>Unsupported Terminal release.</value>
+  </data>
+  <data name="Error_65d833230c2e" xml:space="preserve">
+    <value>No stable Windows Terminal ZIP found for this architecture.</value>
+  </data>
+  <data name="Error_9c060f77f11a" xml:space="preserve">
+    <value>Untrusted Terminal download.</value>
+  </data>
+  <data name="Error_7a766708206e" xml:space="preserve">
+    <value>Unsupported release.</value>
+  </data>
+  <data name="Error_19177e50e227" xml:space="preserve">
+    <value>Publisher SHA-512 does not match the downloaded file.</value>
+  </data>
+  <data name="Error_19d23d726484" xml:space="preserve">
+    <value>Duplicate option: </value>
+  </data>
+  <data name="Error_0e5529944971" xml:space="preserve">
+    <value>Unknown option or missing value: </value>
+  </data>
+  <data name="Error_26956722ea03" xml:space="preserve">
+    <value>Specify a supported --product; use --help.</value>
+  </data>
+  <data name="Error_13df419af5c6" xml:space="preserve">
+    <value>--ui-lang must be tr or en.</value>
+  </data>
+  <data name="Error_a3c8fd732526" xml:space="preserve">
+    <value>Use --list or --url-only, not both.</value>
+  </data>
+  <data name="Error_4869b84831be" xml:space="preserve">
+    <value>Office options require --product office or office2019.</value>
+  </data>
+  <data name="Error_8957b3703ab6" xml:space="preserve">
+    <value>Untrusted release page.</value>
+  </data>
+  <data name="Error_4e27a202225e" xml:space="preserve">
+    <value>This release has no package for the current architecture.</value>
+  </data>
+  <data name="Error_f17601483005" xml:space="preserve">
+    <value>Untrusted update package.</value>
+  </data>
+  <data name="Error_3cc539f1879f" xml:space="preserve">
+    <value>Unexpected update size.</value>
+  </data>
+  <data name="Error_2acee35b4512" xml:space="preserve">
+    <value>Untrusted update checksum.</value>
+  </data>
+  <data name="Error_43051911cf9c" xml:space="preserve">
+    <value>Release checksum is missing.</value>
+  </data>
+  <data name="Error_4f8ad51bf2b1" xml:space="preserve">
+    <value>Server media is x64.</value>
+  </data>
+  <data name="Error_ef26b1d417cb" xml:space="preserve">
+    <value>Bundle part exists; use --force.</value>
+  </data>
+  <data name="Error_f936a3dc3103" xml:space="preserve">
+    <value>Destination exists; use --force or choose another folder.</value>
+  </data>
+  <data name="Error_377c66bd2076" xml:space="preserve">
+    <value>Expected hash conflicts with publisher metadata.</value>
+  </data>
+  <data name="Error_3c7685b92c84" xml:space="preserve">
+    <value>Unsupported Windows architecture.</value>
+  </data>
+  <data name="Error_971129683dea" xml:space="preserve">
+    <value>Office 2019 native ARM64 is not supported.</value>
+  </data>
+  <data name="Error_f00bd03bffdb" xml:space="preserve">
+    <value>Unsupported VS Code architecture.</value>
+  </data>
+  <data name="Error_6935a47753c5" xml:space="preserve">
+    <value>Update package size mismatch.</value>
+  </data>
+  <data name="Error_295c8c8b567d" xml:space="preserve">
+    <value>Update package exceeds expected size.</value>
+  </data>
+  <data name="Error_8c645415fcff" xml:space="preserve">
+    <value>Incomplete update package.</value>
+  </data>
+  <data name="Error_b2a1025f27fb" xml:space="preserve">
+    <value>Unexpected update package contents.</value>
+  </data>
+  <data name="Error_311ac428dad8" xml:space="preserve">
+    <value>Current EXE path unavailable.</value>
+  </data>
+  <data name="Error_99caeca7e0f4" xml:space="preserve">
+    <value>Update EXE version does not match its release tag.</value>
+  </data>
+  <data name="Error_6c33c68865e7" xml:space="preserve">
+    <value>The release has no SHA-256 metadata.</value>
+  </data>
+  <data name="Error_0078def9d4cb" xml:space="preserve">
+    <value>Oversized checksum metadata.</value>
+  </data>
+  <data name="AdditionalGeneral" xml:space="preserve">
+    <value>Official installation package. Bootstrappers download payloads during setup.</value>
+  </data>
+  <data name="AdditionalTerminal" xml:space="preserve">
+    <value>Official Microsoft Windows Terminal ZIP package. It is not executed automatically.</value>
+  </data>
+  <data name="AdditionalSql" xml:space="preserve">
+    <value>Developer editions are for development and testing only. Evaluation is time limited; the downloaded file is a setup bootstrapper.</value>
+  </data>
+  <data name="AdditionalNet" xml:space="preserve">
+    <value>Supported stable .NET releases from Microsoft metadata. Publisher SHA-512 is checked after downloading.</value>
+  </data>
+  <data name="ServerCore" xml:space="preserve">
+    <value>Core / Desktop Experience is selected during setup; there is no separate Core ISO.</value>
+  </data>
+  <data name="CliFidoError" xml:space="preserve">
+    <value>Fido release catalog could not be read: </value>
+  </data>
+  <data name="CliReleaseError" xml:space="preserve">
+    <value>Release is unavailable or ambiguous; use --list.</value>
+  </data>
+  <data name="ServerVirtualError" xml:space="preserve">
+    <value>Unsupported virtual disk release or language.</value>
+  </data>
+</root>
