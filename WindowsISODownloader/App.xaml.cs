@@ -41,7 +41,8 @@ public partial class App : Application
         DispatcherUnhandledException += OnDispatcherException;
         AppDomain.CurrentDomain.UnhandledException += (_, args) => WriteCrash(args.ExceptionObject.ToString() ?? "Bilinmeyen hata");
         bool cli=e.Args.Length>0;_cliMode=cli;
-        if(cli){StartupUri=null;ShutdownMode=ShutdownMode.OnExplicitShutdown;try{AttachConsole(uint.MaxValue);Console.SetOut(new System.IO.StreamWriter(Console.OpenStandardOutput()){AutoFlush=true});}catch{}}
+        if(cli){ShutdownMode=ShutdownMode.OnExplicitShutdown;try{AttachConsole(uint.MaxValue);Console.SetOut(new System.IO.StreamWriter(Console.OpenStandardOutput()){AutoFlush=true});}catch{}}
+        if(!cli) StartupUri=new Uri("MainWindow.xaml",UriKind.Relative);
         base.OnStartup(e);
         if(cli){int code=await WindowsISODownloader.MainWindow.RunCliAsync(e.Args);Shutdown(code);return;}
         try

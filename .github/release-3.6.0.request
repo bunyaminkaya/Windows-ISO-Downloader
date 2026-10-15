@@ -1,1 +1,1 @@
-Publish 3.6.0 only after checks succeed. Attempt 3: include CLI stdout in diagnostic errors.
+Publish 3.6.0 after checks succeed. Attempt 4: avoid assigning null to WPF StartupUri in headless CLI mode.
