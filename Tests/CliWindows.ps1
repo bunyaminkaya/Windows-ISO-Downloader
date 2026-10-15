@@ -25,7 +25,8 @@ try {
         $errorText=$stderr.GetAwaiter().GetResult()
         $code=$p.ExitCode
         $p.Dispose()
-        if($code -ne $test[1]){throw ('Unexpected CLI exit: '+$code+' / '+$errorText)}
+        Write-Host ('CLI '+$test[0]+' exit='+$code+' stdout='+$text+' stderr='+$errorText)
+        if($code -ne $test[1]){throw ('Unexpected CLI exit: '+$code+' / '+$errorText+' / '+$text)}
         if([string]::IsNullOrWhiteSpace($text)){throw 'CLI produced no stdout.'}
         if($test[0] -like '*--json*'){$null=$text | ConvertFrom-Json}
     }

@@ -1,1 +1,1 @@
-Publish 3.6.0 after checks succeed. Attempt 2: use an owned process handle in Windows CLI regression tests.
+Publish 3.6.0 only after checks succeed. Attempt 3: include CLI stdout in diagnostic errors.
