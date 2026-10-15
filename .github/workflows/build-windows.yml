@@ -86,7 +86,7 @@ jobs:
         shell: powershell
         run: |
           & .\Tests\CliWindows.ps1 -Exe (Join-Path $env:RUNNER_TEMP 'wid-publish-x64\Windows ISO Downloader.exe')
-          if ($LASTEXITCODE -ne 0) { throw 'Windows CLI runtime checks failed.' }
+          # CliWindows.ps1 throws on failure; LASTEXITCODE does not track PowerShell scripts.
           & .\Tests\WindowsSmoke.ps1 -Exe (Join-Path $env:RUNNER_TEMP 'wid-publish-x64\Windows ISO Downloader.exe')
 
       - name: Package EXE with required Fido files
@@ -141,3 +141,4 @@ jobs:
           [IO.File]::WriteAllText($notes,$text,[Text.UTF8Encoding]::new($false))
           gh release create $tag $x64 $arm64 $sums -R $env:GITHUB_REPOSITORY --target $env:GITHUB_SHA --title "Windows ISO Downloader $tag" --notes-file $notes --latest
           if ($LASTEXITCODE -ne 0) { throw 'GitHub Release creation failed.' }
+
